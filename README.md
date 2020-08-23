@@ -1,3 +1,3 @@
 # brewery-app
 
-[![vapitea](https://circleci.com/github/vapitea/brewery-app.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/vapitea/brewery-app.svg?style=svg)](https://github.com/vapitea/brewery-app)
